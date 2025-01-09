@@ -1,4 +1,4 @@
-![]("https://github.com/find-my-way/MDK_Firmware_Bar/blob/main/imgs/img1.png?raw=true")
+![text]("https://github.com/find-my-way/MDK_Firmware_Bar/raw/main/imgs/img1.png")
 
 English:
 show firmware size bar for MDK after build
