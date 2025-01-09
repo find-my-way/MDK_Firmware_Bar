@@ -1,0 +1,14 @@
+[
+{
+  "directory": "G:/C&C++_Project/firmware_bar/build",
+  "command": "D:\\mingw64\\bin\\g++.exe   -g -std=gnu++20 -o CMakeFiles\\firmware_bar.dir\\main.cpp.obj -c \"G:\\C&C++_Project\\firmware_bar\\main.cpp\"",
+  "file": "G:/C&C++_Project/firmware_bar/main.cpp",
+  "output": "CMakeFiles/firmware_bar.dir/main.cpp.obj"
+},
+{
+  "directory": "G:/C&C++_Project/firmware_bar/build",
+  "command": "D:\\mingw64\\bin\\g++.exe   -g -std=gnu++20 -o CMakeFiles\\firmware_bar.dir\\tinyxml2.cpp.obj -c \"G:\\C&C++_Project\\firmware_bar\\tinyxml2.cpp\"",
+  "file": "G:/C&C++_Project/firmware_bar/tinyxml2.cpp",
+  "output": "CMakeFiles/firmware_bar.dir/tinyxml2.cpp.obj"
+}
+]

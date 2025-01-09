@@ -1,0 +1,3 @@
+G:/C&C++_Project/firmware_bar/build/CMakeFiles/firmware_bar.dir
+G:/C&C++_Project/firmware_bar/build/CMakeFiles/edit_cache.dir
+G:/C&C++_Project/firmware_bar/build/CMakeFiles/rebuild_cache.dir

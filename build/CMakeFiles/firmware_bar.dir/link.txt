@@ -1,0 +1,3 @@
+D:\CMake\bin\cmake.exe -E rm -f CMakeFiles\firmware_bar.dir/objects.a
+D:\mingw64\bin\ar.exe qc CMakeFiles\firmware_bar.dir/objects.a @CMakeFiles\firmware_bar.dir\objects1.rsp
+D:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\firmware_bar.dir/objects.a -Wl,--no-whole-archive -o firmware_bar.exe -Wl,--out-implib,libfirmware_bar.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\firmware_bar.dir\linkLibs.rsp
